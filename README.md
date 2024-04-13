@@ -12,5 +12,6 @@ The categories for the label variable are:
 Quantitative variables: V1 to V28 and Amount, as they represent numerical values associated with different transaction attributes.
 
 
-What problem is being solved with this dataset ?
+## What problem is being solved with this dataset?
+
 We will try to detect and prevent credit card fraud by identifying suspicious transactions based on the provided features.
